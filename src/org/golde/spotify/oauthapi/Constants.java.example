@@ -1,0 +1,12 @@
+package org.golde.spotify.oauthapi;
+
+import java.net.URI;
+
+import com.wrapper.spotify.SpotifyHttpManager;
+
+public class Constants {
+
+	public static final String CLIENT_ID = "your-client-id-here";
+	public static final String CLIENT_SECRET = "your-client-secret-here";
+	
+}

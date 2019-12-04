@@ -1,0 +1,8 @@
+
+.settings/
+
+*.class
+
+src/org/golde/spotify/oauthapi/MainApplication2.java
+
+src/org/golde/spotify/oauthapi/Constants.java

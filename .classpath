@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/eric/eclipse-workspace/Spotify/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/eric/eclipse-workspace/Spotify/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/eric/eclipse-workspace/Spotify/lib/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/eric/eclipse-workspace/Spotify/lib/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/eric/eclipse-workspace/Spotify/lib/httpclient-cache-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/eric/eclipse-workspace/Spotify/lib/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/eric/eclipse-workspace/Spotify/lib/jackson-annotations-2.9.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/eric/eclipse-workspace/Spotify/lib/jackson-core-2.9.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/eric/eclipse-workspace/Spotify/lib/jackson-databind-2.9.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/eric/eclipse-workspace/Spotify/lib/nv-i18n-1.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/eric/eclipse-workspace/Spotify/lib/spotify-web-api-java-4.0.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<accessrules>
+			<accessrule kind="accessible" pattern="javafx**"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
